@@ -58,10 +58,6 @@
 
 ![3.CanvasAppSegunda2](Evidencias/3.CanvasAppSegunda2.png)
 
-![3.CanvasAppSegunda3](Evidencias/3.CanvasAppSegunda3.png)
-
-![3.CanvasAppSegunda4](Evidencias/3.CanvasAppSegunda4.png)
-
 ![3.CanvasAppSegunda5](Evidencias/3.CanvasAppSegunda5.png)
 
 ![3.CanvasAppSegunda6](Evidencias/3.CanvasAppSegunda6.png)
